@@ -1,4 +1,1 @@
-def greet():
-    print("Hello, World!")
-
-greet()
+print("Hello from master branch!")
