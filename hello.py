@@ -1,1 +1,1 @@
-print("Hello from feature both branch!")
+print("Hello from both branch!")
